@@ -56,6 +56,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/NaoufalLabrihmi/NaoufalLabrihmi/output/snake.svg" alt="Snake animation" />
+
 
 ###
